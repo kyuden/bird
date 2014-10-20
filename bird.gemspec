@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Bird::VERSION
   s.authors     = ["Kyuden"]
   s.email       = ["msmsms.um@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Bird."
-  s.description = "TODO: Description of Bird."
+  s.homepage    = "https://github.com/Kyuden/bird"
+  s.summary     = "Summary of Bird."
+  s.description = "Description of Bird."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
